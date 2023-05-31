@@ -1,0 +1,6 @@
+[31-05-2023 17:12:22] [INFO] Login efetuado user: teste@email.com Maquina: Id: 6
+Host Name: ERIK-DESKTOP
+Cpu: 7
+Disco: 5
+Ram: 4
+
